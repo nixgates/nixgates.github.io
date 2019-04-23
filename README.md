@@ -3,7 +3,7 @@
 
 Instructions for adding this repo:
 
-
+<img align="left" src="icon.png" width="256" hspace="48" title="Seren Repo">
 <p align="left">
   <ul>
     <li>Go to the Kodi file manager.</li>
