@@ -1,5 +1,5 @@
-# ExodusRedux Repository addon
-## Current Version: 0.0.8
+# Seren Repository addon
+## Current Repo Version: 1.0.0
 
 Instructions for adding this repo:
 
